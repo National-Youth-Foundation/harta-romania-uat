@@ -365,10 +365,10 @@
       "format": "gpkg",
       "filename": "ro_admin_macroregion_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2686976,
+      "sha256": "fa68a8a94578a50c42301924fb8004ec62aedcaf9c713fdf328470c23ded51b8",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.gpkg",
       "release_url": null
     },
     {
@@ -377,10 +377,10 @@
       "format": "zip",
       "filename": "ro_admin_macroregion_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1786766,
+      "sha256": "b37681c394b701a1c42ce1dac3de4811b2f4ed95667d963a2269872b3a99e692",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.zip",
       "release_url": null
     },
     {
@@ -389,10 +389,10 @@
       "format": "parquet",
       "filename": "ro_admin_macroregion_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2590742,
+      "sha256": "6ebb2751bf77346c84ca13eae210dd0b35f3de96df0ea580eec7cada9d6638e1",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.parquet",
       "release_url": null
     },
     {
@@ -401,10 +401,10 @@
       "format": "fgb",
       "filename": "ro_admin_macroregion_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2584632,
+      "sha256": "647ad9aeb9e1e6b75d09e2b7450e339cc6af85fa714fcffbf140d652ba78330e",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.fgb",
       "release_url": null
     },
     {
@@ -413,10 +413,10 @@
       "format": "geojson",
       "filename": "ro_admin_macroregion_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 7066168,
+      "sha256": "0b2a694bb18721e225f879c4e95c51057be24d55e67ff0f2a9c2e23d6970209d",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.geojson",
       "release_url": null
     },
     {
@@ -425,10 +425,10 @@
       "format": "topojson",
       "filename": "ro_admin_macroregion_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 841196,
+      "sha256": "7f42017e19a46abcebffe5de24b30d724697ff9508989cfac0e04d4c00f57192",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.topojson",
       "release_url": null
     },
     {
@@ -437,10 +437,10 @@
       "format": "kml",
       "filename": "ro_admin_macroregion_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 5454056,
+      "sha256": "dbfe190e5bbf9a49d2fd1dc34f94bb5497346d3d77b9cd9cf9ba01bd9c7be409",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_polygon.kml",
       "release_url": null
     },
     {
@@ -449,10 +449,10 @@
       "format": "gpkg",
       "filename": "ro_admin_macroregion_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 4108288,
+      "sha256": "382de8c8cb1b179fcdb7aa6a7c9b3b629a2d77fb677cef3fb6d82d77fea0e306",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.gpkg",
       "release_url": null
     },
     {
@@ -461,10 +461,10 @@
       "format": "zip",
       "filename": "ro_admin_macroregion_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1367434,
+      "sha256": "5e3d3e5657f12e07fc0614e7b715852fb6264731c93bec92d3c0bc41a9ff64d3",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.zip",
       "release_url": null
     },
     {
@@ -473,10 +473,10 @@
       "format": "parquet",
       "filename": "ro_admin_macroregion_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2024075,
+      "sha256": "9a7b0e0882c2838b192fa72e1475f7ab5c338974d740e0929afd979130cf9b2a",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.parquet",
       "release_url": null
     },
     {
@@ -485,10 +485,10 @@
       "format": "fgb",
       "filename": "ro_admin_macroregion_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3517496,
+      "sha256": "ae15e7514c46a09feb41ce82554fc6c96b798ccde101bf6cd2f35b69185faf39",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.fgb",
       "release_url": null
     },
     {
@@ -497,10 +497,10 @@
       "format": "geojson",
       "filename": "ro_admin_macroregion_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 8939963,
+      "sha256": "3b9610a3744a0b138ce1858153b57d2057e98fc6e62c3f2942e116fc493a3c4b",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.geojson",
       "release_url": null
     },
     {
@@ -509,10 +509,10 @@
       "format": "topojson",
       "filename": "ro_admin_macroregion_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3293875,
+      "sha256": "fb2de116322f4a7d0b2fa2c4fe48e011e5621f41af90db050e5c7b8474742d49",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.topojson",
       "release_url": null
     },
     {
@@ -521,10 +521,10 @@
       "format": "kml",
       "filename": "ro_admin_macroregion_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 11578884,
+      "sha256": "88aa96a009b4c3c0cf3ed49a633a0a66ce76733492ac80f535b635f55901c101",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_line.kml",
       "release_url": null
     },
     {
@@ -533,10 +533,10 @@
       "format": "gpkg",
       "filename": "ro_admin_macroregion_simplified_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 208896,
+      "sha256": "da99b8021141e2121899b4f7b66ee9ba6f8021cb721da5b25967ced733371ddb",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.gpkg",
       "release_url": null
     },
     {
@@ -545,10 +545,10 @@
       "format": "zip",
       "filename": "ro_admin_macroregion_simplified_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 94460,
+      "sha256": "da6c26f5d664248c38eace5fa245c2cff0501ca8c759ec1ea4414e8424da2194",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.zip",
       "release_url": null
     },
     {
@@ -557,10 +557,10 @@
       "format": "parquet",
       "filename": "ro_admin_macroregion_simplified_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 116766,
+      "sha256": "3e12913234a96f3db69564f9cdaf7dd2ccfc47371c71df1fe9854e8f407a117a",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.parquet",
       "release_url": null
     },
     {
@@ -569,10 +569,10 @@
       "format": "fgb",
       "filename": "ro_admin_macroregion_simplified_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 110816,
+      "sha256": "8489bfcb639e7448f83d52372dcf9215c894e825673f58eb262b1bbe144764ab",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.fgb",
       "release_url": null
     },
     {
@@ -581,10 +581,10 @@
       "format": "geojson",
       "filename": "ro_admin_macroregion_simplified_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 297930,
+      "sha256": "f6896d01a3e20993b17aad3fd9ddf6672cdba6e543c57b715063b4192395e382",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.geojson",
       "release_url": null
     },
     {
@@ -593,10 +593,10 @@
       "format": "topojson",
       "filename": "ro_admin_macroregion_simplified_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 43617,
+      "sha256": "2cb8e90ec694f7da2bbfd6f74dd34443b853ae2ee892295d5df87778b1e6b75a",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.topojson",
       "release_url": null
     },
     {
@@ -605,10 +605,10 @@
       "format": "kml",
       "filename": "ro_admin_macroregion_simplified_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 231853,
+      "sha256": "b7a431a2ffc9d55edd99c6e028df0fc4ed33d2b5a7725e160748514a0090d4c6",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_polygon.kml",
       "release_url": null
     },
     {
@@ -617,10 +617,10 @@
       "format": "gpkg",
       "filename": "ro_admin_macroregion_simplified_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 303104,
+      "sha256": "42e38f4b2a7aa964d5ff7bb65de134244b09c6f3c9b19251658a5c3eba536ab7",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.gpkg",
       "release_url": null
     },
     {
@@ -629,10 +629,10 @@
       "format": "zip",
       "filename": "ro_admin_macroregion_simplified_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 79069,
+      "sha256": "0951f72bf2721796bdc50adb3d86c89a1b0457db231a126de42e82d57c3d5e5d",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.zip",
       "release_url": null
     },
     {
@@ -641,10 +641,10 @@
       "format": "parquet",
       "filename": "ro_admin_macroregion_simplified_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 106801,
+      "sha256": "886be45be3dacbc0a3dd179b21ea1659e63343767154f8aec2734e11798105de",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.parquet",
       "release_url": null
     },
     {
@@ -653,10 +653,10 @@
       "format": "fgb",
       "filename": "ro_admin_macroregion_simplified_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 174832,
+      "sha256": "ffcc8992e94ba07f0dc3795f0d7e634c96f28375d119e8e5682aad49875a9640",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.fgb",
       "release_url": null
     },
     {
@@ -665,10 +665,10 @@
       "format": "geojson",
       "filename": "ro_admin_macroregion_simplified_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 439262,
+      "sha256": "756bb64dfb495336cea9cde7176d7a1f4269317d6b5968bb954d0cbb7f3db229",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.geojson",
       "release_url": null
     },
     {
@@ -677,10 +677,10 @@
       "format": "topojson",
       "filename": "ro_admin_macroregion_simplified_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 149037,
+      "sha256": "fbb5c5a8e57d3b0770fb55d9e40f3a59276251e80787f7cd289af62a69a8a062",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.topojson",
       "release_url": null
     },
     {
@@ -689,10 +689,10 @@
       "format": "kml",
       "filename": "ro_admin_macroregion_simplified_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/macroregion/ro_admin_macroregion_simplified_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 571448,
+      "sha256": "358549a4965614bd0e2ffbddcf52a5091f15e6f21a1b15a3071aadd5c8a8f60a",
+      "storage": "git",
+      "local_path": "data/macroregion/ro_admin_macroregion_simplified_line.kml",
       "release_url": null
     },
     {
@@ -701,10 +701,10 @@
       "format": "gpkg",
       "filename": "ro_admin_region_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 4087808,
+      "sha256": "1ce3aa3e095e164dc87cfc432716a3a77bddaff3973846f2854ffec4a63b549c",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.gpkg",
       "release_url": null
     },
     {
@@ -713,10 +713,10 @@
       "format": "zip",
       "filename": "ro_admin_region_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2780239,
+      "sha256": "58538f6f3dd4a2e1f37bfe7576a24a21fcd4de4a328355b9ff2344ca3a99e2ff",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.zip",
       "release_url": null
     },
     {
@@ -725,10 +725,10 @@
       "format": "parquet",
       "filename": "ro_admin_region_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3989158,
+      "sha256": "070caf1d4ce1ce7d7caf52bb9d4fcc93c1d27cb7c290a96cfc4bff92545447bb",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.parquet",
       "release_url": null
     },
     {
@@ -737,10 +737,10 @@
       "format": "fgb",
       "filename": "ro_admin_region_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3983424,
+      "sha256": "c2b23b7049c05200401f85cec7eefc4d6f615f2a772d6419ec30fb9fb01d57bf",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.fgb",
       "release_url": null
     },
     {
@@ -749,10 +749,10 @@
       "format": "geojson",
       "filename": "ro_admin_region_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 10891430,
+      "sha256": "be1efc75fe3e4e38280359e74ad6378ebfbbde70d739237f5bca65e755279366",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.geojson",
       "release_url": null
     },
     {
@@ -761,10 +761,10 @@
       "format": "topojson",
       "filename": "ro_admin_region_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1207344,
+      "sha256": "378580be2b4de1e6388b7bb718225189cafdea77c593a804514ca440e579f30e",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.topojson",
       "release_url": null
     },
     {
@@ -773,10 +773,10 @@
       "format": "kml",
       "filename": "ro_admin_region_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 8407381,
+      "sha256": "53ba9e758568187061d2a7be1ddb0320472e1ba4f5bfa876341d58768f1adc3a",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_polygon.kml",
       "release_url": null
     },
     {
@@ -785,10 +785,10 @@
       "format": "gpkg",
       "filename": "ro_admin_region_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 5914624,
+      "sha256": "eb35f6b0bf5006a55ac3081ac7e0084d7ee92ef8d616e67569788ef2f131ee8d",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.gpkg",
       "release_url": null
     },
     {
@@ -797,10 +797,10 @@
       "format": "zip",
       "filename": "ro_admin_region_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1984164,
+      "sha256": "593c8d226d1d4fa568d43fa2dbdbd6622a2e259ecbd1248bda450855f737df4c",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.zip",
       "release_url": null
     },
     {
@@ -809,10 +809,10 @@
       "format": "parquet",
       "filename": "ro_admin_region_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2911104,
+      "sha256": "14bfb4ad6bc889397941042b19f57df9ae1084c9cd07cbf65625fd9d6e2c686c",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.parquet",
       "release_url": null
     },
     {
@@ -821,10 +821,10 @@
       "format": "fgb",
       "filename": "ro_admin_region_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 5091472,
+      "sha256": "dbd92ad9c091342134a36bb24648dc72c836a7a152baa63c93e2240e753100bb",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.fgb",
       "release_url": null
     },
     {
@@ -833,10 +833,10 @@
       "format": "geojson",
       "filename": "ro_admin_region_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 12940870,
+      "sha256": "800ab481f9f62042f605b1d174cb0599a02db4f3e763da750c1b852f44554f06",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.geojson",
       "release_url": null
     },
     {
@@ -845,10 +845,10 @@
       "format": "topojson",
       "filename": "ro_admin_region_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 4829344,
+      "sha256": "435f9102fa239368eb03a159394ade77c74f73a76e2acd9194953bd359188442",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.topojson",
       "release_url": null
     },
     {
@@ -857,10 +857,10 @@
       "format": "kml",
       "filename": "ro_admin_region_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 16762145,
+      "sha256": "6cc2aa60bb4a530ecaa8f46f0d4cb640df2e6ef17eed69c2486ddd494402d5a6",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_line.kml",
       "release_url": null
     },
     {
@@ -869,10 +869,10 @@
       "format": "gpkg",
       "filename": "ro_admin_region_simplified_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 253952,
+      "sha256": "e899e340ad10826843135186fbde30ec992ea9914d70d54bbe1c98de3eb5d49e",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.gpkg",
       "release_url": null
     },
     {
@@ -881,10 +881,10 @@
       "format": "zip",
       "filename": "ro_admin_region_simplified_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 119585,
+      "sha256": "b6cc2fd64706d8792d08d562e78119b288309758846a9d58a79eb2d41aad650d",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.zip",
       "release_url": null
     },
     {
@@ -893,10 +893,10 @@
       "format": "parquet",
       "filename": "ro_admin_region_simplified_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 159069,
+      "sha256": "8d166b9020c562d10ccdfa2fc6f007ecaaaa75dd56e2bf4de77429f7813b7885",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.parquet",
       "release_url": null
     },
     {
@@ -905,10 +905,10 @@
       "format": "fgb",
       "filename": "ro_admin_region_simplified_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 153840,
+      "sha256": "26c6b0365e35d537fee15bb7612dbaec65c50f2cad165fe03e86575f167aa3d8",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.fgb",
       "release_url": null
     },
     {
@@ -917,10 +917,10 @@
       "format": "geojson",
       "filename": "ro_admin_region_simplified_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 413758,
+      "sha256": "3956ba6541d2824ca9cd27ae5771fbe4820911a07fb21c39b6468895d83660d9",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.geojson",
       "release_url": null
     },
     {
@@ -929,10 +929,10 @@
       "format": "topojson",
       "filename": "ro_admin_region_simplified_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 55759,
+      "sha256": "48168d60156766e0b813bfef27c7de1e806310886b034ee1cedde2a465746189",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.topojson",
       "release_url": null
     },
     {
@@ -941,10 +941,10 @@
       "format": "kml",
       "filename": "ro_admin_region_simplified_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 323052,
+      "sha256": "a44bb3662198597303eae32f8f98d5aea42e1aae72f9578c9c78c352eec61485",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_polygon.kml",
       "release_url": null
     },
     {
@@ -953,10 +953,10 @@
       "format": "gpkg",
       "filename": "ro_admin_region_simplified_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 364544,
+      "sha256": "6b896f31b6939b0703404e4aece8171682501fe2dfe28cc50cf393d2c75c5bc3",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.gpkg",
       "release_url": null
     },
     {
@@ -965,10 +965,10 @@
       "format": "zip",
       "filename": "ro_admin_region_simplified_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 98021,
+      "sha256": "10a4e3b3f9c8e6121fe5b0683371afb4e0554bd9d696ac4c612e90d9d15c36ae",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.zip",
       "release_url": null
     },
     {
@@ -977,10 +977,10 @@
       "format": "parquet",
       "filename": "ro_admin_region_simplified_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 132914,
+      "sha256": "ff387684d4735854bc30af0e24868ca6095f85263888b62279f306e2ac21750f",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.parquet",
       "release_url": null
     },
     {
@@ -989,10 +989,10 @@
       "format": "fgb",
       "filename": "ro_admin_region_simplified_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 223568,
+      "sha256": "1e22652923f3a3319c606a871826e049358d02887ec2a46d46f44f789bf92e35",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.fgb",
       "release_url": null
     },
     {
@@ -1001,10 +1001,10 @@
       "format": "geojson",
       "filename": "ro_admin_region_simplified_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 561263,
+      "sha256": "dac442bb61d43fa891a38dc84e739e261a985bc357120ba30152ecd7e00355bf",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.geojson",
       "release_url": null
     },
     {
@@ -1013,10 +1013,10 @@
       "format": "topojson",
       "filename": "ro_admin_region_simplified_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 191546,
+      "sha256": "5f1dac50d8a362ab53824c6b47404319a89fee2aa4193e83f5384080355eee30",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.topojson",
       "release_url": null
     },
     {
@@ -1025,10 +1025,10 @@
       "format": "kml",
       "filename": "ro_admin_region_simplified_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/region/ro_admin_region_simplified_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 731948,
+      "sha256": "184667c1b05214ae6d8cd54ece466b721fa93b539695db09c50f119a1b1bb296",
+      "storage": "git",
+      "local_path": "data/region/ro_admin_region_simplified_line.kml",
       "release_url": null
     },
     {
@@ -1037,10 +1037,10 @@
       "format": "gpkg",
       "filename": "ro_admin_county_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 11268096,
+      "sha256": "6ee1641ba5d9773469d0dfa9c12127e6e320eec6e0260f0b92c1859721d83cf9",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.gpkg",
       "release_url": null
     },
     {
@@ -1049,10 +1049,10 @@
       "format": "zip",
       "filename": "ro_admin_county_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 7679302,
+      "sha256": "49c99d272d367659ccd038b51367b92f17fefb9bfe25eae2a18cc86ea729cd62",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.zip",
       "release_url": null
     },
     {
@@ -1061,10 +1061,10 @@
       "format": "parquet",
       "filename": "ro_admin_county_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 11132118,
+      "sha256": "fac3783841fb0a5efdf20d8fb7599a608406fe109e91df8d0265d6fdc93abcbe",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.parquet",
       "release_url": null
     },
     {
@@ -1073,10 +1073,10 @@
       "format": "fgb",
       "filename": "ro_admin_county_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 11132304,
+      "sha256": "f324c1ccf6e86933d3ff6029a874fb26d68c2d689c31994f16cb4a9b680a5fe2",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.fgb",
       "release_url": null
     },
     {
@@ -1085,11 +1085,11 @@
       "format": "geojson",
       "filename": "ro_admin_county_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 30435709,
+      "sha256": "91243a46f3538c2e5af7d14980ee037799adc34c9c3918691ab605a946fa581e",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_county_polygon.geojson"
     },
     {
       "category": "county",
@@ -1097,10 +1097,10 @@
       "format": "topojson",
       "filename": "ro_admin_county_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3162933,
+      "sha256": "05272a61252b8e4d4150df022b5619141a34eb39600a116ac68e35572d32e52f",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.topojson",
       "release_url": null
     },
     {
@@ -1109,10 +1109,10 @@
       "format": "kml",
       "filename": "ro_admin_county_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 23509012,
+      "sha256": "006793ff66b9cb1a0e23fce588c71a5e2720658dbfa662749934834c5f9abc45",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_polygon.kml",
       "release_url": null
     },
     {
@@ -1121,10 +1121,10 @@
       "format": "gpkg",
       "filename": "ro_admin_county_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 6037504,
+      "sha256": "db763c44e55e0f155d1a01f7d4e63199524f82a32f5ee7ba7b187ed5dcccdc7b",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.gpkg",
       "release_url": null
     },
     {
@@ -1133,10 +1133,10 @@
       "format": "zip",
       "filename": "ro_admin_county_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3392087,
+      "sha256": "37db3ad2100d95fbf672b7b07aededfd3d4675a8dce089d84742b61b762f0cec",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.zip",
       "release_url": null
     },
     {
@@ -1145,10 +1145,10 @@
       "format": "parquet",
       "filename": "ro_admin_county_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 4981607,
+      "sha256": "d7d2f8a6c68a385baac202c30af46db0cf4222a91b36e92586b316823b70d937",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.parquet",
       "release_url": null
     },
     {
@@ -1157,10 +1157,10 @@
       "format": "fgb",
       "filename": "ro_admin_county_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 5857272,
+      "sha256": "7437f0fa9fb40b4b66e7693eb61e0f9493364b64db865b2c33bf1ce9b829479a",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.fgb",
       "release_url": null
     },
     {
@@ -1169,10 +1169,10 @@
       "format": "geojson",
       "filename": "ro_admin_county_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 15991715,
+      "sha256": "996d1144e2ddeed571e188176bb190925067e57c1bea777add46906e1098ab46",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.geojson",
       "release_url": null
     },
     {
@@ -1181,10 +1181,10 @@
       "format": "topojson",
       "filename": "ro_admin_county_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3174368,
+      "sha256": "8f38bb58d8e86d5d0b941ca3c520b419676a810450416a16093a3beef965a9b4",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.topojson",
       "release_url": null
     },
     {
@@ -1193,10 +1193,10 @@
       "format": "kml",
       "filename": "ro_admin_county_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 12388795,
+      "sha256": "03f59f098a4e23a7405212ade6e7d2a0780e67323e19c126ac9b4bb8068f41d6",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_line.kml",
       "release_url": null
     },
     {
@@ -1205,10 +1205,10 @@
       "format": "gpkg",
       "filename": "ro_admin_county_simplified_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 487424,
+      "sha256": "e883139a5923e8bdaf5ec6620dfa36fa6bda9fabc796ea1e9cd3903429c5c12d",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.gpkg",
       "release_url": null
     },
     {
@@ -1217,10 +1217,10 @@
       "format": "zip",
       "filename": "ro_admin_county_simplified_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 322155,
+      "sha256": "7c8a7e4093f71b893b1582324314a2ae7b55eb4ed2d772dd11c2d2b63daf303d",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.zip",
       "release_url": null
     },
     {
@@ -1229,10 +1229,10 @@
       "format": "parquet",
       "filename": "ro_admin_county_simplified_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 365448,
+      "sha256": "a879dfae88bd103cf6cb515418738b0b5295e7eff01c29c4b58f3f37c6f382c6",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.parquet",
       "release_url": null
     },
     {
@@ -1241,10 +1241,10 @@
       "format": "fgb",
       "filename": "ro_admin_county_simplified_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 365104,
+      "sha256": "f1e36705a79aef68351be680235270d2c35bffbaf18823a95b4075d76a48231d",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.fgb",
       "release_url": null
     },
     {
@@ -1253,10 +1253,10 @@
       "format": "geojson",
       "filename": "ro_admin_county_simplified_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 976945,
+      "sha256": "16d14b12a42b915d25cdaf7226e6618332d396bf734ff84c963462254f25fd40",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.geojson",
       "release_url": null
     },
     {
@@ -1265,10 +1265,10 @@
       "format": "topojson",
       "filename": "ro_admin_county_simplified_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 121776,
+      "sha256": "060a5d471e01ad104606555a754baf407ec8e9601ced83d9165d70f474bcd04c",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.topojson",
       "release_url": null
     },
     {
@@ -1277,10 +1277,10 @@
       "format": "kml",
       "filename": "ro_admin_county_simplified_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 777550,
+      "sha256": "2c68716a23e4df4740bf8f8754dc8afc3e2de23d8b995d768f17d4967c848c6f",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_polygon.kml",
       "release_url": null
     },
     {
@@ -1289,10 +1289,10 @@
       "format": "gpkg",
       "filename": "ro_admin_county_simplified_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 696320,
+      "sha256": "9ac837bec11954423314ecc135269366c5639c47dec1704e32d1c17d6eafd2fb",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.gpkg",
       "release_url": null
     },
     {
@@ -1301,10 +1301,10 @@
       "format": "zip",
       "filename": "ro_admin_county_simplified_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 200340,
+      "sha256": "1f30c388ca6ee8006fb0161326b5ad4ed7c4d9b7214575a136f5dc5ead15f3d1",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.zip",
       "release_url": null
     },
     {
@@ -1313,10 +1313,10 @@
       "format": "parquet",
       "filename": "ro_admin_county_simplified_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 265827,
+      "sha256": "3b77df850b9bd0d224fcfeae61b8eaf87a63d3a01650e85173efcf120ee3445e",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.parquet",
       "release_url": null
     },
     {
@@ -1325,10 +1325,10 @@
       "format": "fgb",
       "filename": "ro_admin_county_simplified_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 467168,
+      "sha256": "c971d470019538b15ed9db4fab9c03bd3b5dcfe35723ea612f023b6dfe30bcbb",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.fgb",
       "release_url": null
     },
     {
@@ -1337,10 +1337,10 @@
       "format": "geojson",
       "filename": "ro_admin_county_simplified_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1161155,
+      "sha256": "106b3a1fc45be1fa96bab8e149fc9cb33a3b56310b461394c30d212f3a37341a",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.geojson",
       "release_url": null
     },
     {
@@ -1349,10 +1349,10 @@
       "format": "topojson",
       "filename": "ro_admin_county_simplified_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 407234,
+      "sha256": "02761137d6f7384ff65f8ae26facca0dacd088bd34d211e11b1052ce55c72c2e",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.topojson",
       "release_url": null
     },
     {
@@ -1361,10 +1361,10 @@
       "format": "kml",
       "filename": "ro_admin_county_simplified_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/county/ro_admin_county_simplified_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1535788,
+      "sha256": "d716438b82c180e8a4153a8156a4282da2bb8422d785928dba9b32fd56a9d726",
+      "storage": "git",
+      "local_path": "data/county/ro_admin_county_simplified_line.kml",
       "release_url": null
     },
     {
@@ -1373,11 +1373,11 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 75685888,
+      "sha256": "608dc55d6a6d1c931b2dc3ee5ef2bd1aac68ddfee41ef9d380009a516e35d1e6",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.gpkg"
     },
     {
       "category": "lau",
@@ -1385,11 +1385,11 @@
       "format": "zip",
       "filename": "ro_admin_lau_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 53175340,
+      "sha256": "0285e0109b1c8ce32e3b9bbcd9981a56c634aa0580a5b6803d9e22c509f0bfbb",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.zip"
     },
     {
       "category": "lau",
@@ -1397,11 +1397,11 @@
       "format": "parquet",
       "filename": "ro_admin_lau_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 72904918,
+      "sha256": "2ca3d9d91c8d0da889bb94e8d39f679db404777ae89dc5b15b38950d420a91e0",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.parquet"
     },
     {
       "category": "lau",
@@ -1409,11 +1409,11 @@
       "format": "fgb",
       "filename": "ro_admin_lau_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 73577896,
+      "sha256": "cbf2f5c64f251eaf8c23f942e1452ae64f688ee98394ce205ebc3cd19dc6905a",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.fgb"
     },
     {
       "category": "lau",
@@ -1421,11 +1421,11 @@
       "format": "geojson",
       "filename": "ro_admin_lau_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 199903747,
+      "sha256": "6d146d4c103f63436fd612901c4b0d7d685de75e1f4592c0d591f2c62f8c56ba",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.geojson"
     },
     {
       "category": "lau",
@@ -1433,10 +1433,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 20670179,
+      "sha256": "b9619f945c988abbd5ea83d8eba24a33237e79a81cf733aac1d5f653abe9cd5b",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_polygon.topojson",
       "release_url": null
     },
     {
@@ -1445,11 +1445,11 @@
       "format": "kml",
       "filename": "ro_admin_lau_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 156230855,
+      "sha256": "1469497b76dea68a636d10b194cc1836b3efbed1b349bbe5463dba64ded09b9e",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_polygon.kml"
     },
     {
       "category": "lau",
@@ -1457,11 +1457,11 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 43937792,
+      "sha256": "d8b1d06d6fcaf3be8eb960cceabfba381cb8cc9429cf21eff6ac06456caa3755",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_line.gpkg"
     },
     {
       "category": "lau",
@@ -1469,10 +1469,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 24011415,
+      "sha256": "c45f4bbc39b90e17099a35a2f37e3e87576bfa7fe9b040542ba2e4c647f82206",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_line.zip",
       "release_url": null
     },
     {
@@ -1481,11 +1481,11 @@
       "format": "parquet",
       "filename": "ro_admin_lau_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 32966896,
+      "sha256": "10126dc22e6a3b6647f07549c5438d05251ff0206a4e8635fee47da7fdf49ad7",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_line.parquet"
     },
     {
       "category": "lau",
@@ -1493,11 +1493,11 @@
       "format": "fgb",
       "filename": "ro_admin_lau_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 38593704,
+      "sha256": "7998d0628428f2b15a9262d8e2fac1cf6e04ecbe70d6c008123b47936b22286a",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_line.fgb"
     },
     {
       "category": "lau",
@@ -1505,11 +1505,11 @@
       "format": "geojson",
       "filename": "ro_admin_lau_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 102978560,
+      "sha256": "e91081f798ee623fa2f7b9461ae424d6c40f843893cdf2d809e2ecff8d957eec",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_line.geojson"
     },
     {
       "category": "lau",
@@ -1517,10 +1517,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 22066911,
+      "sha256": "2f88f7d013e4629b0e5acbf090da41e64fdb6d969fba4a246d704d4273181225",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_line.topojson",
       "release_url": null
     },
     {
@@ -1529,11 +1529,11 @@
       "format": "kml",
       "filename": "ro_admin_lau_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 83742260,
+      "sha256": "b17a7fe56f42aca1cc64be74f0e70a66b89f2b01153231a39eab40ced3d2ab84",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_line.kml"
     },
     {
       "category": "lau",
@@ -1541,10 +1541,10 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_simplified_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3584000,
+      "sha256": "c6de50ba07e6b25bd2d4e822a65c03a9f3ad2a5befed85f4ca14101a68f13528",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.gpkg",
       "release_url": null
     },
     {
@@ -1553,10 +1553,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_simplified_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1923794,
+      "sha256": "8b6fb19b5655ef3702d1b3fe14cd5cc8f78a5ecaaa404f1ae89fea2738681c5d",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.zip",
       "release_url": null
     },
     {
@@ -1565,10 +1565,10 @@
       "format": "parquet",
       "filename": "ro_admin_lau_simplified_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2638554,
+      "sha256": "100571833d4f734d8a29426ae8609b3339f86082ce95c8117edee8737ea9920c",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.parquet",
       "release_url": null
     },
     {
@@ -1577,10 +1577,10 @@
       "format": "fgb",
       "filename": "ro_admin_lau_simplified_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3367928,
+      "sha256": "550385dda7ddaf16675777d0ed7a37648a85c51e973df393a84ef313f4a425c2",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.fgb",
       "release_url": null
     },
     {
@@ -1589,10 +1589,10 @@
       "format": "geojson",
       "filename": "ro_admin_lau_simplified_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 6989645,
+      "sha256": "63eb38a225d595aa3a9965b56d73ab230f6413426e4718da3d29432e7aba2977",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.geojson",
       "release_url": null
     },
     {
@@ -1601,10 +1601,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_simplified_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1740041,
+      "sha256": "835dc3f06608d145b5d359d741917b242de7e3b77cf3cb7e9fa9243fe24c8c5e",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.topojson",
       "release_url": null
     },
     {
@@ -1613,10 +1613,10 @@
       "format": "kml",
       "filename": "ro_admin_lau_simplified_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 8145275,
+      "sha256": "acf35123a84a549bd2bfc0e66f739a48acd1c92eb7bfc50601813eae1d73d3c9",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_polygon.kml",
       "release_url": null
     },
     {
@@ -1625,10 +1625,10 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_simplified_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3133440,
+      "sha256": "aa994e1e49c0b74b23bd68e2969d11e2db7d5a98bc8be14ec7b35bb4cde90e6c",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.gpkg",
       "release_url": null
     },
     {
@@ -1637,10 +1637,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_simplified_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1523736,
+      "sha256": "49d1d89c60e71689f0b30dea3a349fc15e51310385905960fae566c6600ccba6",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.zip",
       "release_url": null
     },
     {
@@ -1649,10 +1649,10 @@
       "format": "parquet",
       "filename": "ro_admin_lau_simplified_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1766312,
+      "sha256": "06ff1a854d39891319e1f801d368ab2291b2295f114b86d9966a1d34d871be2a",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.parquet",
       "release_url": null
     },
     {
@@ -1661,10 +1661,10 @@
       "format": "fgb",
       "filename": "ro_admin_lau_simplified_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3244288,
+      "sha256": "dae37364eccefb955dfa2ccac4b8d1e1ea2707ed4b00f0e4cb5bc2f6f403d87b",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.fgb",
       "release_url": null
     },
     {
@@ -1673,10 +1673,10 @@
       "format": "geojson",
       "filename": "ro_admin_lau_simplified_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 5471713,
+      "sha256": "9cabd5f0eed8d85505a9121ce4fd6e96c745db6aa16e2f42e71f81dae94b96ec",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.geojson",
       "release_url": null
     },
     {
@@ -1685,10 +1685,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_simplified_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2607496,
+      "sha256": "5172b16a98e43a8076ae89701662d36280ed47b0b3c4b1b8ed76339d59993513",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.topojson",
       "release_url": null
     },
     {
@@ -1697,10 +1697,10 @@
       "format": "kml",
       "filename": "ro_admin_lau_simplified_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 9030230,
+      "sha256": "7cb8234917e9f4751b7ed3cd7a3b5392432105e0456c3cad714212e281fc2837",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_line.kml",
       "release_url": null
     },
     {
@@ -1709,11 +1709,11 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_bucharest_merged_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 75694080,
+      "sha256": "41eddf4febf52ddf724bff020f564a70e29397290e610cd6fdaef11e71121788",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.gpkg"
     },
     {
       "category": "lau",
@@ -1721,11 +1721,11 @@
       "format": "zip",
       "filename": "ro_admin_lau_bucharest_merged_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 53342086,
+      "sha256": "b2ee439b9bc2db148ef0e3836ab70733299b0520bbca91b3a6cbf3471fbdbab8",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.zip"
     },
     {
       "category": "lau",
@@ -1733,11 +1733,11 @@
       "format": "parquet",
       "filename": "ro_admin_lau_bucharest_merged_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 72743795,
+      "sha256": "81537c69b1ad202693e97cad8f18e45eff5d49607755da0ce1ba4f08caff2b17",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.parquet"
     },
     {
       "category": "lau",
@@ -1745,11 +1745,11 @@
       "format": "fgb",
       "filename": "ro_admin_lau_bucharest_merged_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 73398752,
+      "sha256": "7195f799457b3183977bd191fa05e0b0f053b64fdedddac6acc036019f1f66b5",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.fgb"
     },
     {
       "category": "lau",
@@ -1757,11 +1757,11 @@
       "format": "geojson",
       "filename": "ro_admin_lau_bucharest_merged_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 199522907,
+      "sha256": "fd759ae2c4b4131c46c842e260e24fccb76c3af32a4e47a51c091c3a077bd015",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.geojson"
     },
     {
       "category": "lau",
@@ -1769,10 +1769,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_bucharest_merged_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 20910862,
+      "sha256": "672ebf5f73684182bf59c1fcc46dbc16f90c89c6a62e2b502ba71d967e97ded5",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_bucharest_merged_polygon.topojson",
       "release_url": null
     },
     {
@@ -1781,11 +1781,11 @@
       "format": "kml",
       "filename": "ro_admin_lau_bucharest_merged_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 156117601,
+      "sha256": "127cbd5205dcb996cf9fd087fd86c91ce3d9157cc3b4ef596652b42b2a55cdcb",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_polygon.kml"
     },
     {
       "category": "lau",
@@ -1793,11 +1793,11 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_bucharest_merged_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 43839488,
+      "sha256": "7fba5284e2df21128b0203cf5058c57e7239efa5a48c1dd51924c0b84d758adc",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_line.gpkg"
     },
     {
       "category": "lau",
@@ -1805,10 +1805,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_bucharest_merged_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 23966627,
+      "sha256": "3e1d4e3efc009dbd0a257002babab31511e8b95cfc808fea6cc9e23e5b696e1a",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_bucharest_merged_line.zip",
       "release_url": null
     },
     {
@@ -1817,11 +1817,11 @@
       "format": "parquet",
       "filename": "ro_admin_lau_bucharest_merged_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 32894771,
+      "sha256": "829134e871a93f9c5d99ab58853727848250745ccbc122f291c6f70e0af1f118",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_line.parquet"
     },
     {
       "category": "lau",
@@ -1829,11 +1829,11 @@
       "format": "fgb",
       "filename": "ro_admin_lau_bucharest_merged_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 38517232,
+      "sha256": "9a318a76eec515cde9ac23f025234c333accdf43f242819596fb68edaa1f4b49",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_line.fgb"
     },
     {
       "category": "lau",
@@ -1841,11 +1841,11 @@
       "format": "geojson",
       "filename": "ro_admin_lau_bucharest_merged_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 102772115,
+      "sha256": "d29838309f5358fc82da03935af2effd1f0cf6febd23d81493446643c091d6c8",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_line.geojson"
     },
     {
       "category": "lau",
@@ -1853,10 +1853,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_bucharest_merged_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 21896029,
+      "sha256": "d40cf5bbca34f36697cc4956aa9333ac5adbdfa6b0013e4e8cd205e543a6e9f5",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_bucharest_merged_line.topojson",
       "release_url": null
     },
     {
@@ -1865,11 +1865,11 @@
       "format": "kml",
       "filename": "ro_admin_lau_bucharest_merged_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_bucharest_merged_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
+      "size_bytes": 83906520,
+      "sha256": "d744d2a6178f02d25cb721ed7c70b013415b94cc006523593c9afc3db666be00",
+      "storage": "release",
       "local_path": null,
-      "release_url": null
+      "release_url": "https://github.com/National-Youth-Foundation/harta-romania-uat/releases/download/2025.1/ro_admin_lau_bucharest_merged_line.kml"
     },
     {
       "category": "lau",
@@ -1877,10 +1877,10 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3637248,
+      "sha256": "76631b3b8c55fd89224f62a029c8c17f438d900d3d3356dc9a8dcf3faafd25fc",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.gpkg",
       "release_url": null
     },
     {
@@ -1889,10 +1889,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1808490,
+      "sha256": "352855ba3e56e8a5bd8613833bc6d549294a40f50566b6d5c903ec1d7c6e8c2f",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.zip",
       "release_url": null
     },
     {
@@ -1901,10 +1901,10 @@
       "format": "parquet",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2588226,
+      "sha256": "b4dd4a7f3b19b5eedd3d401aa4c612c58545ebffd6081ee2dd54e1bf9e4e58f8",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.parquet",
       "release_url": null
     },
     {
@@ -1913,10 +1913,10 @@
       "format": "fgb",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3367776,
+      "sha256": "10e93451432bd2a220452c527cfc2e2743aa5cf4a08fedcdd5a98675abd172b0",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.fgb",
       "release_url": null
     },
     {
@@ -1925,10 +1925,10 @@
       "format": "geojson",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 7914878,
+      "sha256": "ca94e0b36bf38f0bb2e3dd144ea6ba20dcdccc87a205216bdf1a1f2d02917f4c",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.geojson",
       "release_url": null
     },
     {
@@ -1937,10 +1937,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1748253,
+      "sha256": "7136757f7f8cbb543ededc52402d8dea2a6930b22b1fc4fad4eb0bace93563f9",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.topojson",
       "release_url": null
     },
     {
@@ -1949,10 +1949,10 @@
       "format": "kml",
       "filename": "ro_admin_lau_simplified_bucharest_merged_polygon.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_polygon.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 8342282,
+      "sha256": "2304df808535b53284d92a3868f884bdd40b0097148b8cec319f7bd5693f7809",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_polygon.kml",
       "release_url": null
     },
     {
@@ -1961,10 +1961,10 @@
       "format": "gpkg",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.gpkg",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.gpkg",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3137536,
+      "sha256": "bea8df5848815aaaae9818f337117267997ed60856066570bcfabedae5daf4aa",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.gpkg",
       "release_url": null
     },
     {
@@ -1973,10 +1973,10 @@
       "format": "zip",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.zip",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.zip",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1522753,
+      "sha256": "eb2a99f41ad301bfb0f90e6cda53d5fd9db644c3a5938aa5db6e37a8f05647b7",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.zip",
       "release_url": null
     },
     {
@@ -1985,10 +1985,10 @@
       "format": "parquet",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.parquet",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.parquet",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 1764774,
+      "sha256": "dda348f3caa46c1906ab690bd075ef411f85e6ecbe5583c2798b1cc30c86e66b",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.parquet",
       "release_url": null
     },
     {
@@ -1997,10 +1997,10 @@
       "format": "fgb",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.fgb",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.fgb",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 3241280,
+      "sha256": "6793b44ddda8257e84ad546efd8c953f007dd2aacbab149babfe287b131ba52c",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.fgb",
       "release_url": null
     },
     {
@@ -2009,10 +2009,10 @@
       "format": "geojson",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.geojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.geojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 6170207,
+      "sha256": "9c01b0b26c0e316f8055f37147e3788f4283193a67af92b8465afb55aec7d2fe",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.geojson",
       "release_url": null
     },
     {
@@ -2021,10 +2021,10 @@
       "format": "topojson",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.topojson",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.topojson",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 2603535,
+      "sha256": "fb02529426bd3cf5ccdab91852532a9fd1ed120ab0de3615f8f46748f852bb5d",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.topojson",
       "release_url": null
     },
     {
@@ -2033,10 +2033,10 @@
       "format": "kml",
       "filename": "ro_admin_lau_simplified_bucharest_merged_line.kml",
       "upstream_url": "https://services.geo-spatial.org/data/administrative_boundaries/lau/ro_admin_lau_simplified_bucharest_merged_line.kml",
-      "size_bytes": null,
-      "sha256": null,
-      "storage": null,
-      "local_path": null,
+      "size_bytes": 9349764,
+      "sha256": "b7729b0d0e47730a59cf8605c93a3981dd4ceb75d2b553eb16e2d653c80f2756",
+      "storage": "git",
+      "local_path": "data/lau/ro_admin_lau_simplified_bucharest_merged_line.kml",
       "release_url": null
     }
   ]
