@@ -1,0 +1,7 @@
+tmp/
+release-assets/
+.ci/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

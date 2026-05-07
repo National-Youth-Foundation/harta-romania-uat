@@ -1,0 +1,19 @@
+Datele din acest repository sunt publicate sub licența
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+Textul integral al licenței: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Rezumat (deed): https://creativecommons.org/licenses/by-sa/4.0/
+
+Sursa datelor:
+  Comunitatea geo-spatial.org, pe baza datelor publice puse la dispoziție de
+  Agenția Națională de Cadastru și Publicitate Imobiliară (ANCPI) și de
+  Institutul Național de Statistică (INS).
+  Pagina sursă: https://geo-spatial.org/descarcare/date/administrative-boundaries/
+
+La utilizarea acestor date sunteți obligați să:
+  1. Atribuiți sursa (geo-spatial.org + ANCPI + INS), preferabil cu un link.
+  2. Distribuiți orice operă derivată sub aceeași licență (ShareAlike).
+  3. Indicați dacă ați făcut modificări față de versiunea originală.
+
+Codul (scripturi Python, workflow-uri GitHub Actions) din acest repository este
+publicat sub licența MIT - vezi LICENSE-CODE pentru detalii.
